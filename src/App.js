@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 const App = () => {
   return (
     <div>
-      <h1>Alin Project</h1>
+      <h1>Alin Project 12</h1>
     </div>
   )
 }
