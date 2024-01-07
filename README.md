@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Modern UI/UX GPT-3
 ![68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67](https://github.com/rusualin0031/project-alin/assets/123866644/404dac36-b493-48e6-a2de-907a15b5f03c)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
