@@ -37,6 +37,20 @@
     color: #FF8A71;
 }
 
-.gpt3__possibility-content h1 {}
+.gpt3__possibility-content h1 {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #71E5FF;
+}
 
-.gpt3__possibility-content p {}
+.gpt3__possibility-content p {
+    color: var(--color-text);
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+
+    margin-bottom: 2rem;
+}
