@@ -39,10 +39,12 @@
 
 .gpt3__possibility-content h1 {
     font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 30px;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 45px;
     color: #71E5FF;
+
+    margin: 1rem 0;
 }
 
 .gpt3__possibility-content p {
@@ -53,4 +55,18 @@
     line-height: 30px;
 
     margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 950px) {
+    .gpt3__possibility {
+        flex-direction: column;
+    }
+
+    .gpt3__possibility-image {
+        margin: 1rem 0;
+    }
+
+    .gpt3__possibility-content {
+        margin-top: 2rem;
+    }
 }
